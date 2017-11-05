@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="https://github.com/yangyi521/logistic-regression.git" uploadOnCheckin="fe05c518-e37e-4448-9d22-27a896258a76">
+  <component name="PublishConfigData" serverName="https://github.com/yangyi521/logistic-regression.git" persistUploadOnCheckin="false">
     <serverData>
       <paths name="gitee">
         <serverdata>
@@ -17,6 +17,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="https://github.com/yangyi521/logistic-regression.git" />
   </component>
 </project>
