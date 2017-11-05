@@ -6,6 +6,7 @@ path = 'ex2data1.txt'
 data = pd.read_csv(path, header=None, names=['Exam 1', 'Exam 2', 'Admitted'])
 #print(data)
 #根据是否
+
 positive = data[data['Admitted'].isin([1])]
 negative = data[data['Admitted'].isin([0])]
 #print(positive)
