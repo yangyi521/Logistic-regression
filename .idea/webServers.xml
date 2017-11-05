@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fe05c518-e37e-4448-9d22-27a896258a76" name="https://github.com/yangyi521/logistic-regression.git" url="https://github.com/yangyi521/logistic-regression.git">
+        <fileTransfer host="" port="21">
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b7d30890-93a3-4a28-ab48-0bea98ab6562" name="gitee" url="https://gitee.com/yangyi521/yangyi.git">
+        <fileTransfer port="0" mountedRoot="" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

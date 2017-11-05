@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/yangyi521/logistic-regression.git" uploadOnCheckin="fe05c518-e37e-4448-9d22-27a896258a76">
+    <serverData>
+      <paths name="gitee">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="https://github.com/yangyi521/logistic-regression.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/yangyi521/logistic-regression.git" />
+  </component>
+</project>
