@@ -12,7 +12,7 @@ negative = data[data['Admitted'].isin([0])]
 #print(negative)
 fig, ax = plt.subplots(figsize=(12,8))
 # print(fig)
-# print("------------------------------")
+# print("-------------------------- ----")
 # print(ax)
 #其中c代表颜色，marker代表的是形状，label标识的标签，scatter中的前两个参数代表是的在坐标系的中的x轴跟y轴
 ax.scatter(positive['Exam 1'], positive['Exam 2'], s=50, c='b', marker='o', label='Admitted')
