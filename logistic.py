@@ -10,6 +10,7 @@ positive = data[data['Admitted'].isin([1])]
 negative = data[data['Admitted'].isin([0])]
 #print(positive)
 #print(negative)
+
 fig, ax = plt.subplots(figsize=(12,8))
 # print(fig)
 # print("------------------------------")
