@@ -8,7 +8,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="b7d30890-93a3-4a28-ab48-0bea98ab6562" name="gitee" url="https://gitee.com/yangyi521/yangyi.git">
-        <fileTransfer port="0" mountedRoot="" accessType="MOUNT" />
+        <fileTransfer host="" port="21">
+          <option name="port" value="21" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
